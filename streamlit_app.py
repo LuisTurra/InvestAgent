@@ -19,6 +19,7 @@ from config import GROQ_API_KEY, MODEL_NAME
 st.set_page_config(
     page_title="InvestAgent Terminal",
     layout="wide",
+    page_icon="assets/logo.png",
     initial_sidebar_state="collapsed"
 )
 
