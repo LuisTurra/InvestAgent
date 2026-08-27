@@ -146,7 +146,7 @@ Com base nesses dados, gera:
 ### Inteligência Artificial
 
 * Groq API
-* Llama 3.3 70B Versatile
+*  openai/gpt-oss-120b
 
 ### Dados Financeiros
 
@@ -192,7 +192,7 @@ Crie um arquivo `.env`:
 
 ```env
 GROQ_API_KEY=sua_chave_groq
-MODEL_NAME=llama-3.3-70b-versatile
+MODEL_NAME=openai/gpt-oss-120b
 ```
 
 ---
